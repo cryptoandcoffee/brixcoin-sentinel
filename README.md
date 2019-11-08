@@ -1,6 +1,6 @@
-# 01Coin Sentinel
+# BrixCoin Sentinel
 
-An all-powerful toolset for 01coin.
+An all-powerful toolset for BrixCoin.
 
 Sentinel is an autonomous agent for persisting, processing and automating 01coin governance objects and tasks, and for expanded functions in upcoming 01coin releases.
 
