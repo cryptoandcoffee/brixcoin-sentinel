@@ -2,9 +2,9 @@
 
 An all-powerful toolset for BrixCoin.
 
-Sentinel is an autonomous agent for persisting, processing and automating 01coin governance objects and tasks, and for expanded functions in upcoming 01coin releases.
+Sentinel is an autonomous agent for persisting, processing and automating BrixCoin governance objects and tasks, and for expanded functions in upcoming BrixCoin releases.
 
-Sentinel is implemented as a Python application that binds to a local version 0.12.3 zerooned instance on each 01coin Masternode.
+Sentinel is implemented as a Python application that binds to a local version 0.12.3 BrixCoind instance on each BrixCoin Masternode.
 
 This guide covers installing Sentinel onto an existing Masternode in Ubuntu 14.04 / 16.04.
 
