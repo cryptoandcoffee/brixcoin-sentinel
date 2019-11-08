@@ -1,6 +1,6 @@
 #!/bin/bash
 #BrixCoin Sentinel Setup
-apt-get update ; apt-get -y install python-virtualenv virtualenv ; git clone https://github.com/cryptoandcoffee/sentinel sentinel ; cd sentinel
+apt-get update ; apt-get -y install python-virtualenv virtualenv ; git clone https://github.com/cryptoandcoffee/brixcoin-sentinel sentinel ; cd sentinel
 virtualenv ./venv
 ./venv/bin/pip install -r requirements.txt
 crontab -l > mycron
